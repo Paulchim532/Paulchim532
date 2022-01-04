@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Paulchim532
-- 👀 I’m interested in Data Science, CV, data analysis
+- 👀 I’m interested in Data Science, CV, data analysis, recommender systems
 - 🌱 I’m currently learning CV and NLP
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me: telegram @Paulvtv
 
 <!---
